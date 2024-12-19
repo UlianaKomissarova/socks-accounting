@@ -1,0 +1,3 @@
+databaseChangeLog:
+  - include:
+      file: postgres/db/changelog/2024-12-17_create-sock-table.sql
