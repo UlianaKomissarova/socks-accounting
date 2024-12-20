@@ -8,6 +8,7 @@ REST API для учета носков на складе магазина.
 - Java 17
 - Spring Boot 2.7
 - PostgreSQL:16
+- Liquibase
 - Spring Data
 - Gradle 
 - JDK 17
